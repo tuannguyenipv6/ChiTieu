@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chi Tiêu</string>
+
+    <string name="speech_prompt">Nói gì đó đi…</string>
+    <string name="speech_not_supported">Rất tiếc! Thiết bị của bạn không hỗ trợ nhập liệu bằng giọng nói</string>
+    <string name="tap_on_mic">Nhấn vào micrô để nói</string>
+</resources>
